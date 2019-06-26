@@ -1,6 +1,6 @@
 # Mouse Drug Data Visualization with Python Matplotlib
 
-In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. This script analyzes the data in and creates the following plots using matplotlib in a Jupyter Notebook
+In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. This script analyzes the data in the data folder and creates the following plots using matplotlib in a Jupyter Notebook
 
     A scatter plot that shows how the tumor volume changes over time for each treatment.
     A scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
@@ -13,6 +13,6 @@ In this study, 250 mice were treated through a variety of drug regimes over the 
 
 2. Capomulin best prevented metastatic spread in cancerous mice. Infubinal also significantly slowed metastatic spread, while Ketapril worked about as well as the placebo.
 
-3.Mice that were treated with Capomulin were 50% more likely to survive the experiment than mice treated with no drugs (placebo).
+3. Mice that were treated with Capomulin were 50% more likely to survive the experiment than mice treated with no drugs (placebo).
 
 
